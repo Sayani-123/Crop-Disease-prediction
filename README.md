@@ -7,7 +7,7 @@ The model is trained using images of healthy and diseased crops, leveraging Conv
 
 ## Literature Survey
 - **Deep Learning for Crop Disease Identification**: Recent advancements in deep learning have shown promising results in image classification tasks. CNNs, in particular, have been widely used in identifying crop diseases from leaf images.
-- **CNN-Based Approaches**: CNNs have revolutionized image recognition and are the most effective architecture for image-based crop disease detection. Previous research, such as [Paper1], [Paper2], demonstrated high accuracy when applied to agricultural datasets.
+- **CNN-Based Approaches**: CNNs have revolutionized image recognition and are the most effective architecture for image-based crop disease detection. Previous research, such as [Paddy Crop disease prediction- transfer learning technique], [Seasonal crops disease prediction and classification using deep convolution encoder network], demonstrated high accuracy when applied to agricultural datasets.
 - **Use of Transfer Learning**: Transfer learning has been applied in many studies to enhance model performance when limited data is available. Pretrained models such as VGG16, ResNet50, and MobileNet are often fine-tuned for specific tasks like disease identification.
 - **Impact on Agriculture**: According to [Research Report], the timely detection of diseases using automated systems reduces crop losses by 15-20%, highlighting the critical importance of technology in modern farming.
 
