@@ -24,7 +24,7 @@ The model is trained using images of healthy and diseased crops, leveraging Conv
 
   ![Accuracy & Loss](image/Accuracy.png)
   ![Interface of our model using flask](image/Result1.png)
-  ![After uploading image the prediction result](image/Result2.png)
+  ![After uploading image the prediction result](image/Results2.png)
 
 ## Usage
 1. **Clone the repository**:
